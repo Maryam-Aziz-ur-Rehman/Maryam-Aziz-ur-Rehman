@@ -63,5 +63,7 @@
 <div align="center">
   <img src="https://i.imgur.com/ovrVrTY.png" height="220" alt="streak graph"  />
 </div>
-
+<div>
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" />
+</div>
 ###
