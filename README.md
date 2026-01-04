@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm MARYAM. <br><br>- 🔭 I’m enrolled in Moderm Web and App Development course.<br>- 📚 I'm currently learning Moderm Web and App Development<br>- ⚡ In my free time I practice my skills.</p>
+<p align="left">I'm MARYAM. <br><br>- 🔭 I’m enrolled in Moderm Web and App Development course.<br>- 📚 I'm currently learning Moderm Web and App Development.<br>- ⚡ In my free time I practice my skills.</p>
 
 ###
 
