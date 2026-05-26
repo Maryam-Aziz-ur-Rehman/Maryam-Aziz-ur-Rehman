@@ -1,24 +1,27 @@
 <div align="center">
-  <img height="150" src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZThibG91OTZueWdrbzlra2ZuMmhjc2R0YXRwNTdlMWQzbWdodWk4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/200w.gif />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZThibG91OTZueWdrbzlra2ZuMmhjc2R0YXRwNTdlMWQzbWdodWk4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5NE2L7vdWZ9V39Sjq8/200w.gif" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="center">
+  <a href="www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:maryamaziz2196@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p>
 
 ###
 
 <h1 align="center">Hey there 👋 Myself MARYAM AZIZ</h1>
+
+###
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3500&color=00AEEF&center=true&vCenter=true&lines=Frontend+Developer;Creative+UI/UX+Designer;React+%7C+Next.js+Developer;Turning+Designs+into+Reality" />
+</p>
 
 ###
 
