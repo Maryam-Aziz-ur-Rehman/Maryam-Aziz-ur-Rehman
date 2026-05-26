@@ -51,10 +51,10 @@
 
 <h3 align="center">🤝Connect with me through:</h3>
 <p align="center">
-  <a href="[www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411](https://www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411/?skipRedirect=true)">
+  <a href="https://www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <a href="**maryamaziz2196@gmail.com**">
+  <a href="mailto:hinanisar7860@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
 </p>
