@@ -4,18 +4,7 @@
 
 ###
 
-<p align="center">
-  <a href="www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="mailto:maryamaziz2196@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-  </a>
-</p>
-
-###
-
-<h1 align="center">Hey there 👋 Myself MARYAM AZIZ</h1>
+<h1 align="center">Hey there 👋 Myself "MARYAM AZIZ".</h1>
 
 ###
 
@@ -29,7 +18,12 @@
 
 ###
 
-<p align="left">I'm MARYAM. <br><br>- 🔭 I’m enrolled in Moderm Web and App Development course.<br>- 📚 I'm currently learning Moderm Web and App Development.<br>- ⚡ In my free time I practice my skills.</p>
+<p align="left">I'm MARYAM. <br><br>
+- 💙 Passionate **Frontend Developer** <br>
+- 🎨 Love building **Modern, clean & responsive UI** <br> 
+- ⚡ Skilled in **HTML, CSS, Tailwind, Flowbite** <br> 
+- 📚 Currently learning **Moderm Web and App Development**.<br>
+- ⚡ In believe in practicing regularly.</p>
 
 ###
 
@@ -67,5 +61,16 @@
    <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </div>
+
+###
+<h3 align="center">🤝Connect with me through:</h3>
+<p align="center">
+  <a href="[www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411](https://www.linkedin.com/in/maryam-aziz-ur-rehman-8b2865411/?skipRedirect=true)">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="maryamaziz2196@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p>
 
 ###
